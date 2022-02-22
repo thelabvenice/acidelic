@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8b7147891B283603d219e185B960ef1109A607CA",
+  "SCAN_LINK": "https://etherscan.io/address/0x42e94e7409e992cc925afabab9eb67fe3177ae8c",
+  "NETWORK": {
+    "NAME": "Ethererum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Acidelic mfer",
+  "SYMBOL": "ACIFMF",
+  "MAX_SUPPLY": 169,
+  "WEI_COST": 69000000000000000,
+  "DISPLAY_COST": 0.069,
+  "GAS_LIMIT": 200000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/acidelic-mfer",
+  "SHOW_BACKGROUND":false
+}
